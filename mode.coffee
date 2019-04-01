@@ -1,4 +1,4 @@
-command: "sh nerdbar.widget/scripts/screens.sh" 
+command: "sh nerdbar.widget/scripts/screens.sh"
      
 
 refreshFrequency: 1000 # ms

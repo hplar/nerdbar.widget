@@ -8,7 +8,7 @@ style: """
     left: 5px
     right: 5px
     height: 25px
-    background-color: #282a36
+    background-color: #282122
     opacity: 1
     z-index: -1
 """
